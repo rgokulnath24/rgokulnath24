@@ -9,7 +9,7 @@ This repository is dedicated to showcasing my journey, skills, and projects. Alo
 
 ## 🛠️ Skills  
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, PHP  
 - **Database:** MongoDB, MySQL  
 - **Other:** Git/GitHub, REST APIs, AI Prompt Engineering  
