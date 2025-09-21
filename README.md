@@ -8,7 +8,7 @@ I have worked on PHP/MySQL projects including dashboards, hostel management, and
 
 ## 🛠️ Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, React.js (Intermediate)  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap,TailwindCSS React.js (Intermediate)  
 - **Backend:** PHP, RESTful APIs  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code, cPanel, MySQL Workbench  
