@@ -33,7 +33,7 @@ I have worked on PHP/MySQL projects including dashboards, hostel management, and
 
 ## 💼 Experience
 
-- **Web Developer** — *Wintel Media, Coimbatore (Sep 2023 – Present)*  
+- **Web Developer** — *Wintel Media, Coimbatore (Sep 2023 – Sep 2025)*  
   - Developed and maintained PHP/MySQL projects including Hostel Management System, dashboards, and inventory systems.  
   - Optimized SQL queries and implemented pagination, reducing load times by 30%.  
   - Assisted new team members in PHP projects and dashboard enhancements.  
