@@ -39,7 +39,7 @@ I have worked on PHP/MySQL projects including dashboards, hostel management, and
 
 - **Front End Developer** — *White Whiz, Chennai (Sep 2023 – present)*
   - Building and maintaining reusable UI components, layouts, and dashboard screens using the App Router architecture.
-  - Actively strengthening skills in Next.js, React patterns, and frontend best practices through hands-on feature development and independent projects.
+  - Actively strengthening skills in Next.js, React patterns, and frontend best practices through hands-on feature development and ongoing projects.
    
 ## 🎓 Education
 
