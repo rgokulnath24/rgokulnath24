@@ -37,7 +37,7 @@ I have worked on PHP/MySQL projects including dashboards, hostel management, and
   - Developed and maintained PHP/MySQL projects including Hostel Management System, dashboards, and inventory systems.  
   - Optimized SQL queries and implemented pagination, reducing load times by 30%.  
 
-- **Front End Developer** — *White Whiz, Chennai (Sep 2023 – present)*
+- **Front End Developer** — *White Whiz, Chennai (Sep 2025 – present)*
   - Building and maintaining reusable UI components, layouts, and dashboard screens using the App Router architecture.
   - Actively strengthening skills in Next.js, React patterns, and frontend best practices through hands-on feature development and ongoing projects.
    
