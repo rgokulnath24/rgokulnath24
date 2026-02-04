@@ -36,11 +36,11 @@ I have worked on PHP/MySQL projects including dashboards, hostel management, and
 - **Junior Web Developer** — *Wintel Media, Coimbatore (Sep 2023 – Sep 2025)*  
   - Developed and maintained PHP/MySQL projects including Hostel Management System, dashboards, and inventory systems.  
   - Optimized SQL queries and implemented pagination, reducing load times by 30%.  
-  - Assisted new team members in PHP projects and dashboard enhancements.  
-  - Learning React.js and working on independent frontend projects to transition toward full-stack development.  
 
----**Front End Developer** — *White Whiz, Chennai (Sep 2023 – present)*  
-
+- **Front End Developer** — *White Whiz, Chennai (Sep 2023 – present)*
+  - Building and maintaining reusable UI components, layouts, and dashboard screens using the App Router architecture.
+  - Actively strengthening skills in Next.js, React patterns, and frontend best practices through hands-on feature development and independent projects.
+   
 ## 🎓 Education
 
 - **B.E. Electrical and Electronics Engineering** — Saranathan College of Engineering, Trichy (2019 – 2023) | CGPA: 8.51  
