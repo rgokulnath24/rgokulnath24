@@ -56,4 +56,4 @@ I have worked on PHP/MySQL projects including dashboards, hostel management, and
 
 ---
 
-> ⚡ **Note:** Currently strengthening MERN stack skills while continuing professional contributions to PHP/MySQL projects.
+> ⚡ **Note:** Currently strengthening Full stack skills while continuing professional contributions to my projects.
