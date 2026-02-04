@@ -55,5 +55,3 @@ I have worked on PHP/MySQL projects including dashboards, hostel management, and
 - [GitHub](https://github.com/rgokulnath24)  
 
 ---
-
-> ⚡ **Note:** Currently strengthening Full stack skills while continuing professional contributions to my projects.
