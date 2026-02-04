@@ -1,14 +1,14 @@
 # 🚀 About Me
 
 Hi there! 👋  
-I’m **Gokulnath R**, a **Web Developer** with hands-on experience in **PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript**, and ongoing learning in **React.js**.  
+I’m **Gokulnath R**, a **Associate Software Developer** with hands-on experience in **PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript**, and ongoing learning in **Next.js**.  
 I have worked on PHP/MySQL projects including dashboards, hostel management, and inventory systems, and I’m gradually building my skills in the **MERN stack** through independent and guided projects. I’m passionate about building **scalable, responsive, and user-friendly applications** while improving my frontend expertise.
 
 ---
 
 ## 🛠️ Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap,TailwindCSS, React.js (Intermediate)  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap,TailwindCSS, Next.js (Intermediate)  
 - **Backend:** PHP, RESTful APIs  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code, cPanel, MySQL Workbench  
@@ -33,13 +33,13 @@ I have worked on PHP/MySQL projects including dashboards, hostel management, and
 
 ## 💼 Experience
 
-- **Web Developer** — *Wintel Media, Coimbatore (Sep 2023 – Sep 2025)*  
+- **Junior Web Developer** — *Wintel Media, Coimbatore (Sep 2023 – Sep 2025)*  
   - Developed and maintained PHP/MySQL projects including Hostel Management System, dashboards, and inventory systems.  
   - Optimized SQL queries and implemented pagination, reducing load times by 30%.  
   - Assisted new team members in PHP projects and dashboard enhancements.  
   - Learning React.js and working on independent frontend projects to transition toward full-stack development.  
 
----
+---**Front End Developer** — *White Whiz, Chennai (Sep 2023 – present)*  
 
 ## 🎓 Education
 
